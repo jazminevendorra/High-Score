@@ -1,6 +1,6 @@
 # High-Score
 Guess the word!\
-Thi program plays guess the word with the user.
+This program plays guess the word with the user.
 In my main function, I used a while and if loops to create a menu driven interface that will repeat itself until quit is input as a choice. The menu shows the options to display the rules of the game if user input for choice is 1, play the game if choice is 2, display the high score if choice is 3, and quit if choice 4. If any other option is input as choice, then an error message will be displayed, and the user will have to input another choice until it is a correct one \
 The player is first asked their alias for the game\ 
   Option 1 displays the rules using print. 
