@@ -1,6 +1,4 @@
 # Menu driven program that plays guess the word.
-# Final Project
-# Jazmin Even Dorra
 
 # Import libraries
 import random
